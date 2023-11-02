@@ -1,4 +1,33 @@
-### Hi there 👋
+# netgamesekai
+hello, i speak asm. 
+from south korea, born in 2002.
+
+## infosec
+- a reverser, most of the time
+- cryptography for fun
+- and so on
+
+### teams
+- [cat2flag](https://ctftime.org/team/208397) (we're taking a break for now)
+
+## langs i can speak (i think)
+- opcodes for rev: x86/x86-64, wasm, dalvik bytecode
+- langs for rev: c, cpp, js, java
+- scripting for attack: python, js
+- web dev: vanila js, next.js, css, scss, tailwind
+- and sth i need (only when i need)
+
+## tools
+- likes ghidra, gdb
+- likes nvim
+- likes linux: kali(devian), arch, lfs
+  - am peeking at kernel land 
+
+## contact
+- **discord**: @netgamesekai
+- [ ] telegram
+- [ ] twitter
+- [ ] mastodon
 
 <!--
 **netgamesekai/netgamesekai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

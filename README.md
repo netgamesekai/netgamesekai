@@ -24,8 +24,8 @@ from south korea, born in 2002.
   - am peeking at kernel land 
 
 ## contact
-- **discord**: @netgamesekai
-- **telegram** : @netgamesekai
+- **discord** @netgamesekai
+- **telegram** @netgamesekai
 - [ ] twitter
 - [ ] mastodon
 

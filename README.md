@@ -25,7 +25,7 @@ from south korea, born in 2002.
 
 ## contact
 - **discord**: @netgamesekai
-- [ ] telegram
+- **telegram** : @netgamesekai
 - [ ] twitter
 - [ ] mastodon
 

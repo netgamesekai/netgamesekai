@@ -27,7 +27,6 @@ from south korea, born in 2002.
 - **discord**: @netgamesekai
 - **telegram**: @netgamesekai
 - [ ] twitter
-- [ ] mastodon
 
 <!--
 **netgamesekai/netgamesekai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

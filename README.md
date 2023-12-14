@@ -26,6 +26,7 @@ from south korea, born in 2002.
 ## contact
 - **discord**: @netgamesekai
 - **telegram**: @netgamesekai
+- dreamhack: [@netgamesekai](https://dreamhack.io/users/33360/)
 - [ ] twitter
 
 <!--

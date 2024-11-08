@@ -21,11 +21,6 @@ from south korea, born in 2002.
 - web dev: vanila js, next.js, css, scss, tailwind
 - and sth i need (only when i need)
 
-### teams
-
-- [COD36EEK](https://ctftime.org/team/270620)
-- [cat2flag](https://ctftime.org/team/208397) (we're taking a break for now)
-
 ## tools
 
 - likes ghidra, gdb
@@ -33,7 +28,6 @@ from south korea, born in 2002.
 ## contact
 
 - **discord**: @netgamesekai
-- **telegram**: @netgamesekai
 - dreamhack: [@netgamesekai](https://dreamhack.io/users/33360/)
 
 ---

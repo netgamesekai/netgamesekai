@@ -24,3 +24,9 @@ from south korea, born in 2002.
 
 - **discord**: @netgamesekai
 
+---
+
+### :fire: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->

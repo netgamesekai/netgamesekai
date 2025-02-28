@@ -29,6 +29,6 @@ from south korea, born in 2002.
 ### :fire: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/nicola02nb/BetterDiscordPlugins/pull/1#issuecomment-2686548108) in [nicola02nb/BetterDiscordPlugins](https://github.com/nicola02nb/BetterDiscordPlugins)
-2. 💪 Opened PR [#1](https://github.com/nicola02nb/BetterDiscordPlugins/pull/1) in [nicola02nb/BetterDiscordPlugins](https://github.com/nicola02nb/BetterDiscordPlugins)
+1. 🗣 Commented on [#402](https://github.com/QWERTxD/BetterDiscordPlugins/pull/402#issuecomment-2689206198) in [QWERTxD/BetterDiscordPlugins](https://github.com/QWERTxD/BetterDiscordPlugins)
+2. 🗣 Commented on [#1](https://github.com/nicola02nb/BetterDiscordPlugins/pull/1#issuecomment-2686548108) in [nicola02nb/BetterDiscordPlugins](https://github.com/nicola02nb/BetterDiscordPlugins)
 <!--END_SECTION:activity-->
